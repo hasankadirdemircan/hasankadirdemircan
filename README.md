@@ -3,6 +3,17 @@
 
 - 🔭 I am developing myself in the field of Java technologies and microservice architectures. Besides that I am interested in devops technologies. I care about my development to become a full stack developer. Furthermore, I love write blogspot
 
+
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=hasankadirdemircan&show_icons=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hasankadirdemircan&hide=css,html&line_height=27">
+</p>
+
+</details>
+
 <details open> 
  <summary> 😇 <b>Medium Published articles</b>: </summary>
 <br>
