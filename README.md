@@ -1,17 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I'm Kadir!
 
-<!--
-**hasankadirdemircan/hasankadirdemircan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-I am developing myself in the field of Java technologies and microservice architectures. Besides that I am interested in devops technologies . I care about my development to become a full stack developer.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I am developing myself in the field of Java technologies and microservice architectures. Besides that I am interested in devops technologies. I care about my development to become a full stack developer. Furthermore, I love write blogspot
+
+<details open> 
+ <summary> 😇 <b>Medium Published articles</b>: </summary>
+<br>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hkdemircan/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hkdemircan/0" alt="Recent Article 0"></a>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hkdemircan/1"><img src="hhttps://github-readme-medium-recent-article.vercel.app/medium/@hkdemircan/1" alt="Recent Article 1"></a>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hkdemircan/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hkdemircan/2" alt="Recent Article 2"></a>
+
+</details>
