@@ -6,7 +6,7 @@
 <details open> 
  <summary> 😇 <b>Medium Published articles</b>: </summary>
 <br>
-    <a target="_blank" href="https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@hkdemircan"><img src="https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@hkdemircan" alt="Recent Article 0"></a>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hkdemircan/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hkdemircan/0" alt="Recent Article 0"></a>
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hkdemircan/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hkdemircan/1" alt="Recent Article 1"></a>
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hkdemircan/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hkdemircan/2" alt="Recent Article 2"></a>
 
