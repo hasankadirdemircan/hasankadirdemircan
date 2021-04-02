@@ -1,8 +1,6 @@
 ### Hi there 👋 I'm Kadir!
 
 
-Here are some ideas to get you started:
-
 - 🔭 I am developing myself in the field of Java technologies and microservice architectures. Besides that I am interested in devops technologies. I care about my development to become a full stack developer. Furthermore, I love write blogspot
 
 <details open> 
