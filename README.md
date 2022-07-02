@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Kadir!
 
-- 💼 I have been working at BetBull/Wynn Interactive as a Java Developer
+- 💼 I have been working at XPoint-Tech as a Software Developer
 
 - 🔭 I am developing myself in the field of Java technologies and microservice architectures. Besides that I am interested in devops technologies. I care about my development to become a full stack developer. Furthermore, I love blogging
 
